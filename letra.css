@@ -1,0 +1,19 @@
+p#esquerda
+{
+ background-color: #ffdddd;    
+}
+
+p#direita
+{    
+ background-color: #ddffdd;    
+}
+
+p#centralizar
+{
+ background-color: #ddddff;    
+}
+
+p#justificado
+{
+ background-color: #ffffdd;
+ }

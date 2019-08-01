@@ -1,0 +1,144 @@
+    .fundoalternativo
+     {
+      background-color: #0039e6;               
+ 
+     color: #4dff4d;
+ 
+      font-size: 30px;  /*tamanho da letra*/
+ 
+      font-style: italic;  
+     }
+
+    .palavra    /* serve para destacar a palavra de um outro modo*/
+     { 
+       font-size: 25px;
+
+       color: #eac50e;
+
+       background-color: #1cea0e;
+     }
+
+
+ 
+            
+            .centralizar {
+             
+             
+             text-align: center;
+             background-color: #4dffc3;         /*cor fundo -->*/
+            
+            width: 1000px;
+            height: auto; /* altura do div*/
+            }
+             
+                
+           .corletra { color: #00e6e6; } <!-- trocar a cor da letra -->
+                
+           .letratitulo {color:#00ffff;}
+              
+            .corazul {             
+              text-align: center;
+              background-color: #00ffff;            
+              width: 70%;
+              height: auto;
+              position: relative;
+              left: 100px;
+              top: 20px;  
+                
+                }
+                
+             div#amarelo
+                {
+                text-align: center;
+                background-color: #ffff1a;
+                width: 70%;
+                height: auto;
+                position: relative;
+                left: 100px;
+                top: 20px;  
+                }
+                
+            div#vermelho
+               {
+               text-align: center;
+               background-color: #ff1a1a;
+               width: 70%;
+               height: auto;
+               position: relative;
+               left: 100px;
+               top: 20px;  
+               }
+            
+              div#azulescuro
+               {
+               text-align: center;
+               background-color: #008ae6;
+               width: 70%;
+               height: auto; /* deixa de acordo com o tanto de conteudo que a pagina tem */
+               position: relative;
+               left: 100px; /* da esquerda para direita, quanto que movimentamos para direita*/
+               top: 20px; /* da parte de cima quantos que descemos ate em baixo*/
+               }
+               
+              div#cinza
+               {
+               text-align: center;
+               background-color: #a2c3c3;
+               width: 70%;
+               height: auto;
+               position: relative;
+               left: 100px;
+               top: 20px;                 
+               }
+               
+             div#rosa
+               {
+               text-align: center;
+               background-color:  #ff4dff;
+               width: 70%;
+               height: auto;
+               position: relative;
+               left: 100px;
+               top: 20px;    
+               }
+               
+             div#roxo
+               {
+               text-align: center;
+               background-color: #cc00cc;
+               width: 70%;
+               height: auto;
+               position: relative;
+               left: 100px;
+               top: 20px;    
+               }
+               
+              div#verdeescuro
+               {
+               text-align: center;
+               background-color: #208000;
+               width: 70%;
+               height: auto;
+               position: relative;
+               left: 100px;
+               top: 20px;    
+               }
+         
+               .menulateral
+               {
+               height: auto;
+               float: right;
+               width: 200px;
+               }
+               
+               
+               
+               
+               
+               
+                        
+                        
+                                         
+            
+            
+            
